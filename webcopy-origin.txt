@@ -1,0 +1,1340 @@
+Uri: https://assignmentworkship.com/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/about/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\about\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/comments/feed/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://assignmentworkship.com/compositions-projects/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\compositions-projects\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/contact/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/essay-article-writing/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\essay-article-writing\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/feed/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://assignmentworkship.com/packages/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\packages\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/portal-handling/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\portal-handling\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/presentation/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\presentation\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/proofreading/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\proofreading\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/reflective-writing-assignment/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\reflective-writing-assignment\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/resume-cv-writing/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\resume-cv-writing\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/service-page/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\service-page\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/spss-analysis/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\spss-analysis\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/thesis-report-writing/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\thesis-report-writing\index.htm
+Content Type: text/html
+
+Uri: https://assignmentworkship.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.12.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.12.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.12.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.12.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: font/woff2
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.12.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: application/font-woff
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.4
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.4
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/home10.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\home10.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/home11.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\home11.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/home12.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\home12.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/img/abs.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\img\abs.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/img/tbg1.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\img\tbg1.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/img/tbg2.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\img\tbg2.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis/fonts/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis\fonts\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis\fonts\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis/fonts/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis/niobis.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis\niobis.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis2/flaticon.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis2\flaticon.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis2/Flaticon.eot
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis2\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis2/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis2\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis2/Flaticon.svg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis2\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis2/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis2\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis2/Flaticon.woff
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis2\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/niobis2/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\niobis2\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/owl.carousel.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/style.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\style.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/vendor.bundle.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\vendor.bundle.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/css/video.min.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\css\video.min.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/img/img-shape.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\img\img-shape.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/appear.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\appear.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/bootstrap.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/Chart.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\Chart.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/circle-progress.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\circle-progress.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/jarallax.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\jarallax.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/jquery.counterup.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\jquery.counterup.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/jquery.filterizr.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\jquery.filterizr.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/jquery.magnific-popup.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/knob.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\knob.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/owl.carousel.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/parallax-scroll.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\parallax-scroll.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/popper.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/scrollreveal.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\scrollreveal.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/tilt.jquery.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\tilt.jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/utils.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\utils.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/waypoints.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/wow.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/assets/js/xniobis-addon.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\assets\js\xniobis-addon.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/niobis-addon/ashelement/includes/widgets/home12_services/img/ser2.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\niobis-addon\ashelement\includes\widgets\home12_services\img\ser2.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: text/plain
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: text/plain
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.4.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: application/font-woff
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.4.4
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\js\rbtools.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.4.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.9
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/css/bbg.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\css\bbg.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/css/bootstrap.min.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/css/default.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\css\default.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/css/fontawesome-all.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\css\fontawesome-all.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/js/niobis.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\js\niobis.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/assets/js/script.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\assets\js\script.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-content/themes/niobis/style.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\themes\niobis\style.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/03/AW-1-1024x1019.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\03\AW-1-1024x1019.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/03/AW-1-150x150.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\03\AW-1-150x150.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/03/AW-1-1536x1529.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\03\AW-1-1536x1529.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/03/AW-1-300x300.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\03\AW-1-300x300.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/03/AW-1-768x764.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\03\AW-1-768x764.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/03/AW-1.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\03\AW-1.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/699-6999322_business-man-icon-png-business-man-transparent-png-1.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\699-6999322_business-man-icon-png-business-man-transparent-png-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/a7b6735c-6e4d-4845-ab56-ff550e56d8a0-e1633540722712-300x138.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\a7b6735c-6e4d-4845-ab56-ff550e56d8a0-e1633540722712-300x138.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/a7b6735c-6e4d-4845-ab56-ff550e56d8a0-e1633540722712-768x353.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\a7b6735c-6e4d-4845-ab56-ff550e56d8a0-e1633540722712-768x353.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/a7b6735c-6e4d-4845-ab56-ff550e56d8a0-e1633540722712.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\a7b6735c-6e4d-4845-ab56-ff550e56d8a0-e1633540722712.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/benefits-of-student-information-system-1024x597.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\benefits-of-student-information-system-1024x597.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/benefits-of-student-information-system-300x175.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\benefits-of-student-information-system-300x175.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/benefits-of-student-information-system-768x448.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\benefits-of-student-information-system-768x448.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/benefits-of-student-information-system.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\benefits-of-student-information-system.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/cropped-New-Project-3-1-180x180.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\cropped-New-Project-3-1-180x180.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/cropped-New-Project-3-1-192x192.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\cropped-New-Project-3-1-192x192.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/cropped-New-Project-3-1-32x32.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\cropped-New-Project-3-1-32x32.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/Difference-Between-Article-and-Essay-image-1-300x177.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\Difference-Between-Article-and-Essay-image-1-300x177.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/Difference-Between-Article-and-Essay-image-1-768x454.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\Difference-Between-Article-and-Essay-image-1-768x454.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/Difference-Between-Article-and-Essay-image-1.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\Difference-Between-Article-and-Essay-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/New-Project-3-300x189.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\New-Project-3-300x189.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/New-Project-3.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\New-Project-3.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/New-Project-5-241x300.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\New-Project-5-241x300.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/New-Project-5.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\New-Project-5.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/proofreading-1024x512.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\proofreading-1024x512.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/proofreading-1536x768.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\proofreading-1536x768.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/proofreading-300x150.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\proofreading-300x150.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/proofreading-768x384.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\proofreading-768x384.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/proofreading.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\proofreading.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/reflecting-1024x683.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\reflecting-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/reflecting-300x200.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\reflecting-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/reflecting-768x512.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\reflecting-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/reflecting.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\reflecting.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/resumes-1024x576.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\resumes-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/resumes-1536x864.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\resumes-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/resumes-300x169.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\resumes-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/resumes-768x432.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\resumes-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/resumes.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\resumes.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/ser4.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\ser4.png
+Content Type: image/png
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/Some-Thoughts-on-the-risks-involved-in-writing-a-master-thesis-300x169.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\Some-Thoughts-on-the-risks-involved-in-writing-a-master-thesis-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/Some-Thoughts-on-the-risks-involved-in-writing-a-master-thesis.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\Some-Thoughts-on-the-risks-involved-in-writing-a-master-thesis.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/statistical-analysis-hero-300x161.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\statistical-analysis-hero-300x161.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/statistical-analysis-hero.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\statistical-analysis-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/What-Is-a-Wireless-Presentation-Display-1024x576.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\What-Is-a-Wireless-Presentation-Display-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/What-Is-a-Wireless-Presentation-Display-1536x865.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\What-Is-a-Wireless-Presentation-Display-1536x865.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/What-Is-a-Wireless-Presentation-Display-2048x1153.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\What-Is-a-Wireless-Presentation-Display-2048x1153.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/What-Is-a-Wireless-Presentation-Display-300x169.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\What-Is-a-Wireless-Presentation-Display-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/What-Is-a-Wireless-Presentation-Display-768x432.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\What-Is-a-Wireless-Presentation-Display-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/What-Is-a-Wireless-Presentation-Display.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\What-Is-a-Wireless-Presentation-Display.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-16-at-6.21.31-PM-e1634573961165-150x150.jpeg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\WhatsApp-Image-2021-10-16-at-6.21.31-PM-e1634573961165-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-16-at-6.21.31-PM-e1634573961165-300x297.jpeg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\WhatsApp-Image-2021-10-16-at-6.21.31-PM-e1634573961165-300x297.jpeg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-16-at-6.21.31-PM-e1634573961165.jpeg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\2021\10\WhatsApp-Image-2021-10-16-at-6.21.31-PM-e1634573961165.jpeg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/global.css?ver=1633514411
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-1756.css?ver=1638472196
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-1756.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-2812.css?ver=1633514073
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-2812.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-2843.css?ver=1668677567
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-2843.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-3006.css?ver=1668917086
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-3006.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-3016.css?ver=1668863166
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-3016.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-3023.css?ver=1668868732
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-3023.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-3029.css?ver=1668603313
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-3029.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-3035.css?ver=1668828968
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-3035.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-3045.css?ver=1668866524
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-3045.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-3046.css?ver=1668877597
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-3046.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-3047.css?ver=1668711478
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-3047.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-3427.css?ver=1668354980
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-3427.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-3431.css?ver=1668355069
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-3431.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-482.css?ver=1668944774
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-482.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-491.css?ver=1668853967
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-491.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-494.css?ver=1668617932
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-494.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/elementor/css/post-528.css?ver=1668682695
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\elementor\css\post-528.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-content/uploads/revslider/slider-2/d1.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-content\uploads\revslider\slider-2\d1.jpg
+Content Type: image/jpeg
+
+Uri: https://assignmentworkship.com/wp-includes/css/dashicons.min.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://assignmentworkship.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assignmentworkship.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assignmentworkship.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\js\masonry.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\js\underscore.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-includes/js/wp-embed.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-includes/js/wp-util.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\js\wp-util.min.js
+Content Type: application/x-javascript
+
+Uri: https://assignmentworkship.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://assignmentworkship.com/wp-json/
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fabout%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fcompositions-projects%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fcompositions-projects%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fessay-article-writing%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fessay-article-writing%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fpackages%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fpackages%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fportal-handling%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fportal-handling%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fpresentation%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fpresentation%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fproofreading%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fproofreading%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Freflective-writing-assignment%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Freflective-writing-assignment%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fresume-cv-writing%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fresume-cv-writing%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fservice-page%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fservice-page%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fspss-analysis%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fspss-analysis%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fthesis-report-writing%2F
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fassignmentworkship.com%2Fthesis-report-writing%2F&format=xml
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/1756
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\1756
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/2843
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\2843
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/3006
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\3006
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/3016
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\3016
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/3023
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\3023
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/3029
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\3029
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/3035
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\3035
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/3045
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\3045
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/3046
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\3046
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/3047
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\3047
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/482
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\482
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/491
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\491
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/494
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\494
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/wp-json/wp/v2/pages/528
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\wp-json\wp\v2\pages\528
+Content Type: application/json
+
+Uri: https://assignmentworkship.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://dimsemenov.com/images/hn-logo-18x18.gif
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\images\hn-logo-18x18.gif
+Content Type: image/gif
+
+Uri: https://dimsemenov.com/images/sm-logo-24x24.png
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\images\sm-logo-24x24.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Adamina:400%2C500%2C700|Roboto:100%2C300%2C400%2C500%2C700|Poppins:300%2C400%2C600%2C500%2C700&subset=latin%2Clatin-ext
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:700|Roboto:400%2C500
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8.6
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400|Poppins&display=swap
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/adamina/v21/j8_r6-DH1bjoc-dwi-3UFQ.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\adamina\v21\j8_r6-DH1bjoc-dwi-3UFQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://wp.themexriver.com/niobis/home-1/wp-content/uploads/sites/3/2020/05/bbg.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\niobis\home-1\wp-content\uploads\sites\3\2020\05\bbg.jpg
+Content Type: image/jpeg
+
+Uri: https://wp.themexriver.com/niobis/home-10/wp-content/uploads/sites/11/2021/03/bg5.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\niobis\home-10\wp-content\uploads\sites\11\2021\03\bg5.jpg
+Content Type: image/jpeg
+
+Uri: https://wp.themexriver.com/niobis/home-12/wp-content/uploads/sites/13/2021/04/abt2.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\niobis\home-12\wp-content\uploads\sites\13\2021\04\abt2.jpg
+Content Type: image/jpeg
+
+Uri: https://wp.themexriver.com/niobis/home-12/wp-content/uploads/sites/13/2021/04/abt3.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\niobis\home-12\wp-content\uploads\sites\13\2021\04\abt3.jpg
+Content Type: image/jpeg
+
+Uri: https://wp.themexriver.com/niobis/home-12/wp-content/uploads/sites/13/2021/04/fv-bg.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\niobis\home-12\wp-content\uploads\sites\13\2021\04\fv-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wp.themexriver.com/niobis/home-12/wp-content/uploads/sites/13/2021/04/ser1-1.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\niobis\home-12\wp-content\uploads\sites\13\2021\04\ser1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wp.themexriver.com/niobis/home-12/wp-content/uploads/sites/13/2021/04/ser3.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\niobis\home-12\wp-content\uploads\sites\13\2021\04\ser3.jpg
+Content Type: image/jpeg
+
+Uri: https://wp.themexriver.com/niobis/home-12/wp-content/uploads/sites/13/2021/04/tst-bg.jpg
+File Name: C:\Downloaded Web Sites\assignmentworkship.com\niobis\home-12\wp-content\uploads\sites\13\2021\04\tst-bg.jpg
+Content Type: image/jpeg
+
