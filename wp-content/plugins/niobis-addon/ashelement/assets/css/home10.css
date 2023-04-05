@@ -1,0 +1,2050 @@
+.appilo-text-gradient .elementor-heading-title {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.appilo-icon-gradient .elementor-icon {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#nio-mark-project-slide .owl-nav .owl-next,
+#nio-mark-project-slide .owl-nav .owl-prev, .nio-mark-slider-wrapper .owl-nav .owl-next,
+.nio-mark-slider-wrapper .owl-nav .owl-prev {
+  width: 60px;
+  color: #fff;
+  height: 60px;
+  margin: 0px 5px;
+  line-height: 60px;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 5px;
+  position: relative;
+  display: inline-block;
+  border: 2px solid #fff;
+    background: transparent;
+}
+#nio-mark-project-slide .owl-nav .owl-next:before,
+#nio-mark-project-slide .owl-nav .owl-prev:before, .nio-mark-slider-wrapper .owl-nav .owl-next:before,
+.nio-mark-slider-wrapper .owl-nav .owl-prev:before {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0%;
+  z-index: -1;
+  content: "";
+  position: absolute;
+  transition: 500ms ease;
+  background-image: linear-gradient(90deg, #ff66bd 0%, #fda1ae 100%);
+}
+#nio-mark-project-slide .owl-nav .owl-next:hover:before,
+#nio-mark-project-slide .owl-nav .owl-prev:hover:before, .nio-mark-slider-wrapper .owl-nav .owl-next:hover:before,
+.nio-mark-slider-wrapper .owl-nav .owl-prev:hover:before {
+  height: 100%;
+}
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -100%, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.nio-mark-cta-content-2 a, .nio-mark-contact-form-area button, .nio-mark-service-btn a, .nio-mark-slider-item .nio-mark-slider-text .nio-mark-slider-btn a, .nio-mark-header-cta-btn a {
+  color: #fff;
+  width: 160px;
+  height: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  border-radius: 5px;
+  text-align: center;
+  font-family: "Poppins";
+  display: inline-block;
+  transition: all 200ms linear 0ms;
+  background-size: 200%, 1px;
+  background-image: linear-gradient(90deg, #ff69bc 0%, #fd9faf 50%, #ff69bc);
+}
+.nio-mark-cta-content-2 a:hover, .nio-mark-contact-form-area button:hover, .nio-mark-service-btn a:hover, .nio-mark-slider-item .nio-mark-slider-text .nio-mark-slider-btn a:hover, .nio-mark-header-cta-btn a:hover {
+  background-position: 120%;
+}
+
+.nio-mark-header-cta-btn {
+  padding-top: 8px;
+  margin-left: 30px;
+}
+.nio-mark-section-title-1 span {
+  color: #c5c5c5;
+  font-size: 18px;
+  font-weight: 700;
+  position: relative;
+  font-family: "Poppins";
+  text-transform: uppercase;
+}
+.nio-mark-section-title-1 span:before {
+  left: 0;
+  top: -18px;
+  height: 6px;
+  width: 36px;
+  content: "";
+  position: absolute;
+  background-image: linear-gradient(90deg, #f27109 0%, #ffd223 100%);
+}
+.nio-mark-section-title-1 h2 {
+  color: #111111;
+  font-size: 48px;
+  font-weight: 700;
+}
+.nio-mark-section-title-1 p {
+  color: #999999;
+  font-size: 20px;
+  line-height: 1.5;
+  padding-left: 60px;
+  position: relative;
+}
+.nio-mark-section-title-1 p:before {
+  top: 8px;
+  left: 35px;
+  content: "";
+  width: 1px;
+  height: 80px;
+  position: absolute;
+  background-image: linear-gradient(-90deg, #ff66bd 0%, #fda1ae 100%);
+}
+
+.nio-mark-section-title-2 span {
+  color: #f63c79;
+  font-size: 21px;
+  font-weight: 700;
+  font-family: "Poppins";
+  text-transform: uppercase;
+}
+.nio-mark-section-title-2 h2 {
+  color: #000;
+  font-size: 48px;
+  font-weight: 700;
+  padding: 5px 0px 30px;
+}
+.nio-mark-section-title-2 p {
+  line-height: 1.75;
+}
+.flip-animations {
+  transition: 0.6s cubic-bezier(0.24, 0.74, 0.58, 1);
+}
+.flip-animations:hover {
+  transform: rotateY(360deg);
+}
+@keyframes nio_animation_1 {
+  0% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-40px);
+  }
+  50% {
+    transform: translateX(0);
+  }
+  75% {
+    transform: translateX(40px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+@keyframes nio_animation_2 {
+  0% {
+    transform: translateY(0);
+  }
+  25% {
+    transform: translateY(-40px);
+  }
+  50% {
+    transform: translateY(0);
+  }
+  75% {
+    transform: translateY(40px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@keyframes nio_animation_3 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes nio_animation_4 {
+  0% {
+    transform: translate(-300px, 151px) rotate(0);
+  }
+  100% {
+    transform: translate(251px, -200px) rotate(180deg);
+  }
+}
+@keyframes nio_animation_5 {
+  0% {
+    transform: translate(0, 0) rotate(0);
+  }
+  20% {
+    transform: translate(73px, -1px) rotate(36deg);
+  }
+  40% {
+    transform: translate(111px, 72px) rotate(72deg);
+  }
+  60% {
+    transform: translate(93px, 122px) rotate(108deg);
+  }
+  80% {
+    transform: translate(-70px, 72px) rotate(124deg);
+  }
+  100% {
+    transform: translate(0, 0) rotate(0);
+  }
+}
+/*---------------------------------------------------- */
+/*Header area*/
+/*----------------------------------------------------*/
+.nio-mark-header-wrap {
+  z-index: 10;
+  position: relative;
+}
+.nio-mark-main-menu-item{
+  display: flex;
+}
+@media screen and (max-width: 1340px) {
+  .nio-mark-header-wrap .main-navigation {
+    display: block;
+  }
+}
+.nio-mark-header-wrap .dropdown {
+  position: relative;
+}
+.nio-mark-header-wrap .dropdown .dropdown-menu {
+  top: 65px;
+  left: 0;
+  opacity: 0;
+  z-index: 2;
+  margin: 0px;
+  padding: 0px;
+  height: auto;
+  width: 200px;
+  border: none;
+  display: block;
+  border-radius: 0;
+  overflow: hidden;
+  visibility: hidden;
+  position: absolute;
+  border-radius: 10px;
+  background-color: #fff;
+  transition: all 0.4s ease-in-out;
+  border-bottom: 2px solid #ff6000;
+  box-shadow: 0 5px 10px 0 rgba(83, 82, 82, 0.1);
+}
+.nio-mark-header-wrap .dropdown .dropdown-menu li {
+  width: 100%;
+  margin-left: 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+.nio-mark-header-wrap .dropdown .dropdown-menu li a {
+  width: 100%;
+  color: #343434;
+  display: block;
+  font-size: 14px;
+  padding: 10px 25px;
+  position: relative;
+  transition: 0.3s all ease-in-out;
+}
+.nio-mark-header-wrap .dropdown .dropdown-menu li a:before {
+  display: none;
+}
+.nio-mark-header-wrap .dropdown .dropdown-menu li a:hover {
+  color: #fff;
+  padding-left: 40px;
+  background-color: #ff6000;
+}
+.nio-mark-header-wrap .dropdown .dropdown-menu li:last-child {
+  border-bottom: none;
+}
+.nio-mark-header-wrap .dropdown:hover .dropdown-menu {
+  top: 50px;
+  opacity: 1;
+  visibility: visible;
+}
+
+.nio-mark-header-top {
+  padding: 13px 30px;
+  background-color: #79b4f6;
+}
+
+.nio-mark-header-top-cta a {
+  color: #fff;
+  margin-right: 40px;
+}
+.nio-mark-header-top-cta a i {
+  margin-right: 8px;
+}
+
+.nio-mark-header-top-social span {
+  color: #fff;
+}
+.nio-mark-header-top-social span i {
+  margin-right: 8px;
+}
+.nio-mark-header-top-social .nio-mark-header-social {
+  margin-left: 20px;
+}
+.nio-mark-header-top-social .nio-mark-header-social a {
+  color: #fff;
+  margin-left: 15px;
+}
+.nio-mark-header-top-social .nio-mark-header-social a:hover {
+  color: #f63c79;
+}
+
+.nio-mark-main-menu-item .navbar-nav {
+  display: inherit;
+}
+.nio-mark-main-menu-item li {
+  margin-left: 35px;
+}
+.nio-mark-main-menu-item li a {
+  color: #fff;
+  font-weight: 700;
+  padding-bottom: 30px;
+  font-family: "Poppins";
+}
+
+.nio-mark-sticky-on {
+  top: 0;
+  width: 100% !important;
+  position: fixed !important;
+  animation-duration: 0.7s;
+  animation-fill-mode: both;
+  animation-name: fadeInDown;
+  animation-timing-function: ease;
+  transition: 0.3s all ease-in-out;
+}
+.nio-mark-sticky-on .nio-mark-header-menu {
+  padding: 10px 0px;
+  background-image: none;
+}
+
+.nio-mark-mobile_menu_content {
+  top: 0px;
+  bottom: 0;
+  right: -350px;
+  height: 100vh;
+  z-index: 101;
+  width: 280px;
+  position: fixed;
+  overflow-y: scroll;
+  background-color: #020c16;
+  padding: 100px 20px 50px 20px;
+  box-shadow: 0px 3px 5px rgba(100, 100, 100, 0.19);
+  transition: all 0.5s cubic-bezier(0.9, 0.03, 0, 0.96) 0.6s;
+}
+.nio-mark-mobile_menu_content .main-navigation {
+  width: 100%;
+  margin-right: 0 !important;
+}
+.nio-mark-mobile_menu_content .main-navigation li {
+  margin-left: 0 !important;
+}
+.nio-mark-mobile_menu_content .main-navigation .navbar-nav {
+  width: 100%;
+}
+.nio-mark-mobile_menu_content .navbar-nav .dropdown-menu {
+  position: static !important;
+  transform: none !important;
+  background-color: transparent;
+}
+.nio-mark-mobile_menu_content .main-navigation .navbar-nav li {
+  width: 100%;
+  display: block;
+  margin-left: 0;
+  padding-left: 0;
+  margin: 5px 0px;
+  transition: 0.3s all ease-in-out;
+}
+.nio-mark-mobile_menu_content .main-navigation .navbar-nav li a {
+  color: #c5c5c5;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.nio-mark-mobile_menu_content .m-brand-logo {
+  margin-bottom: 30px;
+}
+.nio-mark-mobile_menu_content .dropdown-btn {
+  right: 0;
+  top: 0px;
+  width: 30px;
+  color: #c5c5c5;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  position: absolute;
+  background-color: #061c31;
+  transition: 0.3s all ease-in-out;
+}
+
+.nio-mark-mobile_menu_wrap.nio-mark-mobile_menu_on .nio-mark-mobile_menu_content {
+  right: 0px;
+  transition: all 0.7s cubic-bezier(0.9, 0.03, 0, 0.96) 0.4s;
+}
+
+.nio-mark-mobile_menu_overlay {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 100;
+  right: -100%;
+  height: 120vh;
+  background-color: rgba(0, 0, 0, 0.9);
+  transition: all 0.8s ease-in 0.8s;
+}
+
+.nio-mark-mobile_menu_overlay_on {
+  overflow: hidden;
+}
+
+.nio-mark-mobile_menu_wrap.nio-mark-mobile_menu_on .nio-mark-mobile_menu_overlay {
+  right: 0;
+  transition: all 0.8s ease-out 0s;
+}
+
+.nio-mark-mobile_menu_button {
+  position: absolute;
+  display: none;
+  right: 15px;
+  top: -52px;
+  cursor: pointer;
+  color: #fff;
+  text-align: center;
+  font-size: 25px;
+}
+
+.nio-mark-mobile_menu .main-navigation .navbar-nav li a:after {
+  display: none;
+}
+.nio-mark-mobile_menu .main-navigation .dropdown > .dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+}
+.nio-mark-mobile_menu .nio-mark-mobile_menu_content .main-navigation .navbar-nav .dropdown-menu {
+  border: none;
+  display: none;
+  transition: none;
+  box-shadow: none;
+  padding: 5px 0px;
+}
+.nio-mark-mobile_menu .nio-mark-mobile_menu_content .main-navigation .navbar-nav .dropdown-menu li {
+  border: none;
+  line-height: 1;
+  padding: 5px 20px;
+  margin: 0;
+}
+.nio-mark-mobile_menu .nio-mark-mobile_menu_content .main-navigation .navbar-nav .dropdown-menu li a {
+  color: #c5c5c5;
+  font-size: 14px;
+  padding: 0;
+}
+.nio-mark-mobile_menu .nio-mark-mobile_menu_close {
+  color: #d60606;
+  cursor: pointer;
+  top: 15px;
+  left: 15px;
+  font-size: 20px;
+  position: absolute;
+}
+
+/*----------------------------------------------------*/
+/*slider area*/
+/*----------------------------------------------------*/
+
+.img-zooming {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  transform: scale(1);
+}
+
+.nio-mark-slider-item {
+  z-index: 3;
+  padding: 235px 0px 190px;
+}
+.nio-mark-slider-item .nio-mark-slider-img {
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 0;
+  height: 100%;
+  position: absolute;
+}
+.nio-mark-slider-item .nio-mark-slider-text {
+  z-index: 2;
+  color: #fff;
+  max-width: 570px;
+  position: relative;
+}
+.nio-mark-slider-item .nio-mark-slider-text span {
+  font-size: 30px;
+  font-weight: 700;
+  padding-bottom: 5px;
+  font-family: "Poppins";
+  display: inline-block;
+  text-transform: uppercase;
+  position: relative;
+  opacity: 0;
+  transform: translateY(20px);
+}
+.nio-mark-slider-item .nio-mark-slider-text span:before {
+  left: 0;
+  top: -30px;
+  height: 6px;
+  width: 36px;
+  content: "";
+  position: absolute;
+  background-image: linear-gradient(90deg, #ff66bd 0%, #fda1ae 100%);
+}
+.nio-mark-slider-item .nio-mark-slider-text h1 {
+  font-size: 72px;
+  font-weight: 700;
+  padding-bottom: 40px;
+  opacity: 0;
+  color: #fff;
+  transform: translateY(30px);
+}
+.nio-mark-slider-item .nio-mark-slider-text p {
+  font-size: 21px;
+  padding-bottom: 50px;
+  opacity: 0;
+  transform: translateY(40px);
+}
+.nio-mark-slider-item .nio-mark-slider-text .nio-mark-slider-btn {
+  opacity: 0;
+  transform: translateY(50px);
+}
+.nio-mark-slider-item .nio-mark-slider-text .nio-mark-slider-btn a {
+  height: 60px;
+  width: 200px;
+  line-height: 60px;
+}
+.nio-mark-slider-item .background_overlay {
+  z-index: 1;
+  opacity: 0.8;
+  background-image: linear-gradient(-35deg, #0006b8 0%, #000eff 100%);
+}
+.nio-mark-slider-item .nio-mark-slider-content .nio-mark-slider-icon {
+  right: 0;
+  top: 80px;
+  z-index: 2;
+  position: absolute;
+  transform: scale(0);
+  transition: all 500ms linear;
+}
+
+.nio-mark-slider-wrapper .owl-nav .owl-next,
+.nio-mark-slider-wrapper .owl-nav .owl-prev {
+  top: 50%;
+  position: absolute;
+  transform: translateY(-50%);
+}
+.nio-mark-slider-wrapper .owl-nav .owl-prev {
+  right: auto;
+  left: 65px;
+}
+.nio-mark-slider-wrapper .owl-nav .owl-next {
+  right: 65px;
+  left: auto;
+}
+.nio-mark-slider-wrapper .owl-item.active .img-zooming {
+  transform: scale(1.15);
+  transition: all 7000ms linear;
+}
+.nio-mark-slider-wrapper .owl-item.active .nio-mark-slider-item .nio-mark-slider-text span {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 1000ms ease;
+  transition-delay: 500ms;
+}
+.nio-mark-slider-wrapper .owl-item.active .nio-mark-slider-item .nio-mark-slider-text h1 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 1000ms ease;
+  transition-delay: 700ms;
+}
+.nio-mark-slider-wrapper .owl-item.active .nio-mark-slider-item .nio-mark-slider-text p {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 1000ms ease;
+  transition-delay: 700ms;
+}
+.nio-mark-slider-wrapper .owl-item.active .nio-mark-slider-item .nio-mark-slider-text .nio-mark-slider-btn {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 1000ms ease;
+  transition-delay: 900ms;
+}
+.nio-mark-slider-wrapper .owl-item.active .nio-mark-slider-item .nio-mark-slider-icon {
+  transform: scale(1);
+  transition-delay: 950ms;
+}
+
+/*----------------------------------------------------*/
+/*intro area*/
+/*----------------------------------------------------*/
+
+.nio-mark-intro-content .col-lg-4:nth-child(2) .nio-mark-intro-innerbox .nio-mark-intro-text {
+  background-image: linear-gradient(90deg, #0997ac 0%, #9ee9ac 100%);
+}
+.nio-mark-intro-content .col-lg-4:nth-child(3) .nio-mark-intro-innerbox .nio-mark-intro-text {
+  background-image: linear-gradient(90deg, #aa00f1 0%, #6722d6 100%);
+}
+
+.nio-mark-intro-innerbox .nio-mark-intro-img {
+  overflow: hidden;
+  border-radius: 10px;
+}
+.nio-mark-intro-innerbox .nio-mark-intro-img:before {
+  top: 0;
+  left: 0;
+  width: 100%;
+  content: "";
+  z-index: 1;
+  height: 0%;
+  opacity: 0.6;
+  position: absolute;
+  transition: 0.4s all ease-in-out;
+  background-image: linear-gradient(-35deg, #0006b8 0%, #000eff 100%);
+}
+.nio-mark-intro-innerbox .nio-mark-intro-img .nio-mark-intro-hover {
+  left: 0;
+  right: 0;
+  top: 70%;
+  z-index: 2;
+  opacity: 0;
+  visibility: hidden;
+  text-align: center;
+  position: absolute;
+  transform: translateY(-50%);
+  transition: 0.4s all ease-in-out;
+  transition-delay: 0.3s;
+}
+.nio-mark-intro-innerbox .nio-mark-intro-img .nio-mark-intro-hover i {
+  color: #fff;
+  font-size: 100px;
+}
+.nio-mark-intro-innerbox .nio-mark-intro-text {
+  top: -35px;
+  z-index: 3;
+  height: 70px;
+  width: 340px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  padding-left: 30px;
+  border-radius: 4px;
+  background-image: linear-gradient(90deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+}
+.nio-mark-intro-innerbox .nio-mark-intro-text h3 {
+  color: #fff;
+  font-size: 21px;
+  font-weight: 700;
+}
+.nio-mark-intro-innerbox .nio-mark-intro-text .nio-mark-intro-icon {
+  top: 0;
+  right: 0;
+  width: 70px;
+  color: #fff;
+  height: 70px;
+  line-height: 70px;
+  position: absolute;
+  background-image: linear-gradient(45deg, #f27109 0%, #ffd223 100%);
+}
+.nio-mark-intro-innerbox .nio-mark-intro-text .nio-mark-intro-icon i {
+  font-size: 30px;
+}
+.nio-mark-intro-innerbox .nio-mark-intro-text .nio-mark-intro-icon i:nth-child(2),
+.nio-mark-intro-innerbox .nio-mark-intro-text .nio-mark-intro-icon i:nth-child(1) {
+  left: 0;
+  top: 50%;
+  right: 0;
+  position: absolute;
+  transform: translateY(-50%);
+  transition: 0.4s all ease-in-out;
+}
+.nio-mark-intro-innerbox .nio-mark-intro-text .nio-mark-intro-icon i:nth-child(2) {
+  top: 70%;
+  opacity: 0;
+}
+.nio-mark-intro-innerbox:hover .nio-mark-intro-img:before {
+  height: 100%;
+}
+.nio-mark-intro-innerbox:hover .nio-mark-intro-text .nio-mark-intro-icon i:nth-child(1) {
+  top: 30%;
+  opacity: 0;
+}
+.nio-mark-intro-innerbox:hover .nio-mark-intro-text .nio-mark-intro-icon i:nth-child(2) {
+  top: 50%;
+  opacity: 1;
+}
+.nio-mark-intro-innerbox:hover .nio-mark-intro-img .nio-mark-intro-hover {
+  top: 50%;
+  opacity: 1;
+  visibility: visible;
+}
+
+/*----------------------------------------------------*/
+/*about area*/
+/*----------------------------------------------------*/
+.nio-mark-about-section {
+  padding: 125px 0px 110px;
+}
+.nio-mark-about-section .nio-mark-about-shape1 {
+  top: 0;
+  right: 0;
+  animation: nio_animation_3 12s infinite linear alternate;
+}
+.nio-mark-about-section .nio-mark-about-shape2 {
+  top: 35%;
+  left: 50px;
+  transform: translateY(-50%);
+  animation: nio_animation_2 12s infinite linear alternate;
+}
+.nio-mark-about-section .nio-mark-about-shape3 {
+  left: 0;
+  bottom: 0;
+  animation: nio_animation_1 12s infinite linear alternate;
+}
+
+.nio-mark-about-text-area {
+  margin-top: 28px;
+}
+.nio-mark-about-text-area ul li {
+  padding-left: 30px;
+  position: relative;
+  margin-bottom: 12px;
+}
+.nio-mark-about-text-area ul li:before {
+  top: 5px;
+  left: 0;
+  width: 15px;
+  content: "";
+  height: 15px;
+  position: absolute;
+  border-radius: 100%;
+  background-image: linear-gradient(90deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+}
+.nio-mark-about-text-area ul li:after {
+  top: 9px;
+  left: 4px;
+  width: 7px;
+  height: 7px;
+  content: "";
+  position: absolute;
+  border-radius: 100%;
+  background-color: #eff8fd;
+}
+.nio-mark-about-text-area ul li span {
+  font-weight: 700;
+}
+.nio-mark-about-text-area ul li:nth-child(2):before {
+  background-image: linear-gradient(90deg, #0997ac 0%, #9ee9ac 100%);
+}
+.nio-mark-about-text-area ul li:nth-child(3):before {
+  background-image: linear-gradient(90deg, #aa00f1 0%, #6722d6 100%);
+}
+
+.nio-mark-about-sign-name {
+  margin-top: 35px;
+}
+.nio-mark-about-sign-name .nio-mark-about-sign {
+  margin-right: 25px;
+}
+.nio-mark-about-sign-name h3 {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 700;
+}
+.nio-mark-about-sign-name span {
+  color: #666666;
+  font-size: 14px;
+}
+
+.nio-mark-about-img-date {
+  top: 30px;
+  left: 25px;
+  color: #fff;
+  height: 90px;
+  width: 150px;
+  padding-top: 15px;
+  padding-left: 25px;
+  position: absolute;
+  border-radius: 10px;
+  background-image: linear-gradient(90deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+}
+.nio-mark-about-img-date span {
+  font-weight: 700;
+  font-family: "Poppins";
+}
+.nio-mark-about-img-date h4 {
+  font-size: 30px;
+  font-weight: 700;
+}
+.nio-mark-about-img-date i {
+  top: 15px;
+  right: 15px;
+  font-size: 25px;
+  position: absolute;
+}
+
+.nio-mark-about-img-wrap .nio-mark-about-img2 {
+  left: 0;
+  z-index: 2;
+  bottom: -145px;
+  position: absolute;
+}
+.nio-mark-about-img-wrap .nio-mark-about-img2:before {
+  top: -20px;
+  right: -20px;
+  z-index: -1;
+  content: "";
+  width: 100%;
+  height: 95%;
+  position: absolute;
+  background-color: #79b4f6;
+}
+.nio-mark-about-img-wrap .nio-mark-abou-img-icon {
+  right: 15px;
+  z-index: 3;
+  bottom: -125px;
+  position: absolute;
+}
+
+.nio-mark-about-feature {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.nio-mark-about-ft-list {
+  margin-bottom: 38px;
+}
+.nio-mark-about-ft-list .nio-mark-about-ft-icon {
+  line-height: 1;
+  margin-bottom: 15px;
+  height: 50px;
+  width: 50px;
+  transition: 0.6s cubic-bezier(0.24, 0.74, 0.58, 1);
+}
+.nio-mark-about-ft-list .nio-mark-about-ft-icon i {
+  font-size: 50px;
+  background-image: linear-gradient(90deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.nio-mark-about-ft-list .nio-mark-about-ft-text h3 {
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
+  padding-bottom: 15px;
+}
+.nio-mark-about-ft-list:nth-child(2) .nio-mark-about-ft-icon i {
+  background-image: linear-gradient(90deg, #0997ac 0%, #9ee9ac 100%);
+}
+.nio-mark-about-ft-list:nth-child(3) .nio-mark-about-ft-icon i {
+  background-image: linear-gradient(90deg, #aa00f1 0%, #6722d6 100%);
+}
+.nio-mark-about-ft-list:hover .nio-mark-about-ft-icon {
+  transform: rotateY(360deg);
+}
+
+/*----------------------------------------------------*/
+/*service area*/
+/*----------------------------------------------------*/
+.nio-mark-service-section .nio-mark-service-shape3 {
+  right: 0;
+  top: -25px;
+}
+.nio-mark-service-section .nio-mark-service-shape5 {
+  top: 20%;
+  right: 50px;
+  animation: nio_animation_2 12s infinite linear alternate;
+}
+.nio-mark-service-section .nio-mark-service-shape6 {
+  left: 50px;
+  bottom: 40%;
+  animation: nio_animation_2 12s infinite linear alternate;
+}
+.nio-mark-service-section .nio-mark-service-shape7 {
+  bottom: 0;
+  left: -25px;
+}
+
+.nio-mark-service-ft-item {
+  z-index: 1;
+  overflow: hidden;
+  border-radius: 8px;
+  padding: 35px 0 35px 30px;
+  border: 1px solid #e5e5e5;
+}
+.nio-mark-service-ft-item .nio-mark-service-ft-icon {
+  line-height: 1;
+  margin-right: 20px;
+}
+.nio-mark-service-ft-item .nio-mark-service-ft-icon i {
+  font-size: 60px;
+  transition: all 500ms ease;
+  background-image: linear-gradient(90deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.nio-mark-service-ft-item .nio-mark-service-ft-text h3 {
+  color: #000000;
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 1.571;
+  transition: all 500ms ease;
+}
+.nio-mark-service-ft-item:before {
+  top: 0;
+  left: 0;
+  width: 0%;
+  content: "";
+  z-index: -1;
+  height: 100%;
+  transition: all 500ms ease;
+  position: absolute;
+  background-image: linear-gradient(90deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+}
+
+.nio-mark-service-feature {
+  padding: 75px 0px 50px;
+}
+.nio-mark-service-feature li {
+  width: 300px;
+  padding: 0px 15px;
+}
+.nio-mark-service-tab-btn {
+  margin: 0px -15px;
+}
+.nio-mark-service-tab-btn .nav-link.active .nio-mark-service-ft-item:before {
+  width: 100%;
+}
+.nio-mark-service-tab-btn .nav-link.active .nio-mark-service-ft-icon i {
+ background-image: linear-gradient(90deg, #fff 0%, #fff 50%, #fff 100%) !important;
+}
+.nio-mark-service-tab-btn .nav-link.active .nio-mark-service-ft-text h3 {
+  color: #fff;
+}
+.nio-mark-service-feature li:nth-child(2) .nio-mark-service-ft-item .nio-mark-service-ft-icon i {
+  background-image: linear-gradient(90deg, #0997ac 0%, #9ee9ac 100%);
+}
+.nio-mark-service-feature li:nth-child(2) .nio-mark-service-ft-item:before {
+  background-image: linear-gradient(90deg, #0997ac 0%, #9ee9ac 100%);
+}
+.nio-mark-service-feature li:nth-child(3) .nio-mark-service-ft-item .nio-mark-service-ft-icon i {
+  background-image: linear-gradient(90deg, #aa00f1 0%, #6722d6 100%);
+}
+.nio-mark-service-feature li:nth-child(3) .nio-mark-service-ft-item:before {
+  background-image: linear-gradient(90deg, #aa00f1 0%, #6722d6 100%);
+}
+.nio-mark-service-feature li:nth-child(4) .nio-mark-service-ft-item .nio-mark-service-ft-icon i {
+  background-image: linear-gradient(90deg, #79b4f6 0%, #79b4f6 100%);
+}
+.nio-mark-service-feature li:nth-child(4) .nio-mark-service-ft-item:before {
+  background-image: linear-gradient(90deg, #79b4f6 0%, #79b4f6 100%);
+}
+.nio-mark-service-tab-btn .nav-tabs .nav-link {
+  padding: 0;
+  border: none;
+  border-radius: 0;
+}
+.nio-mark-service-tab-btn .nav-tabs .nav-link.active {
+  border: none;
+}
+.nio-mark-service-tab-btn .nav-tabs {
+  border-bottom: none;
+}
+.nio-mark-service-img .nio-mark-service-shape1 {
+  top: 43%;
+  z-index: -1;
+  right: 115px;
+}
+.nio-mark-service-img .nio-mark-service-shape2 {
+  bottom: -100px;
+  left: 105px;
+  z-index: -1;
+}
+.nio-mark-service-img .nio-mark-service-img1 {
+  overflow: hidden;
+  border-radius: 10px;
+}
+.nio-mark-service-img .nio-mark-service-img2 {
+  right: 50px;
+  bottom: -200px;
+  overflow: hidden;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.nio-mark-service-text-icon {
+  line-height: 1;
+  margin-bottom: 35px;
+}
+.nio-mark-service-text-icon i {
+  font-size: 80px;
+  background-image: linear-gradient(90deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.nio-mark-service-text h3 {
+  color: #000000;
+  font-size: 60px;
+  font-weight: 700;
+  padding-bottom: 20px;
+}
+
+.nio-mark-service-skill-wrap {
+  margin: 28px 0px 40px;
+}
+.nio-mark-service-skill-wrap .skill-set-percent {
+  margin-bottom: 25px;
+}
+.nio-mark-service-skill-wrap .skill-set-percent h4 {
+  color: #000000;
+  font-size: 18px;
+  font-weight: 700;
+  padding-bottom: 16px;
+}
+.nio-mark-service-skill-wrap .skill-set-percent .progress {
+  height: 8px;
+  border-radius: 0;
+  position: relative;
+  overflow: visible;
+  border-radius: 20px;
+  background-color: #fbe5e5;
+}
+.nio-mark-service-skill-wrap .skill-set-percent .progress span {
+  right: 0;
+  top: -30px;
+  font-size: 18px;
+  color: #f26d7d;
+  font-weight: 700;
+  position: absolute;
+  font-family: "Poppins";
+}
+.nio-mark-service-skill-wrap .skill-set-percent .progress-bar {
+  width: 0;
+  top: 0;
+  float: left;
+  height: 4px;
+  border-radius: 20px;
+  position: relative;
+  transition: 1s all ease-in-out;
+  background-color: #970ae9;
+}
+.nio-mark-service-skill-wrap .skill-set-percent:nth-child(2) .progress-bar {
+  background-color: #89e2fa;
+}
+
+/*----------------------------------------------------*/
+/*project area*/
+/*----------------------------------------------------*/
+.nio-mark-project-section {
+  overflow: visible;
+  padding: 125px 0px 0;
+}
+.nio-mark-project-section .nio-mark-section-title-1 span, .nio-mark-project-section .nio-mark-section-title-1 h2, .nio-mark-project-section .nio-mark-section-title-1 p {
+  color: #fff;
+}
+
+.nio-mark-project-text {
+  z-index: 5;
+  color: #fff;
+  position: relative;
+  padding: 160px 0px 70px;
+}
+.nio-mark-project-text h3 {
+  font-size: 36px;
+  font-weight: 700;
+  color: white;
+  padding-bottom: 35px;
+}
+.nio-mark-project-text p {
+  padding-bottom: 25px;
+}
+.nio-mark-project-text a {
+  font-weight: 700;
+  position: relative;
+}
+.nio-mark-project-text a:after {
+  left: 0;
+  content: "";
+  height: 2px;
+  width: 100%;
+  bottom: -5px;
+  position: absolute;
+  background-image: linear-gradient(90deg, #ff66bd 0%, #fda1ae 100%);
+}
+
+.nio-mark-project-content .nio-mark-slider-img {
+  z-index: 1;
+  bottom: -70px;
+  margin-left: 70px;
+}
+.nio-mark-project-content .nio-mark-slider-img img {
+  border-radius: 12px;
+}
+.nio-mark-project-content .nio-mark-slider-img:before {
+  top: -30px;
+  right: -10px;
+  z-index: -1;
+  content: "";
+  width: 95%;
+  height: 100%;
+  position: absolute;
+  border-radius: 12px;
+  background-color: #79b4f6;
+}
+
+#nio-mark-project-slide .owl-stage-outer {
+  overflow: visible;
+}
+#nio-mark-project-slide .owl-item {
+  opacity: 0;
+  transition: opacity 500ms;
+}
+#nio-mark-project-slide .owl-item.active {
+  opacity: 1;
+}
+#nio-mark-project-slide .owl-nav {
+  right: -175px;
+  bottom: 110px;
+  position: absolute;
+}
+#nio-mark-project-slide .owl-prev {
+  right: 0;
+}
+
+@media screen and (max-width: 991px) {
+  #nio-mark-project-slide .owl-nav {
+    display: none;
+  }
+}
+/*----------------------------------------------------*/
+/*marketing area*/
+/*----------------------------------------------------*/
+@keyframes icon-bounce {
+  0%, 100%, 20%, 50%, 80% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-10px);
+  }
+  60% {
+    transform: translateY(-5px);
+  }
+}
+.nio-mark-marketing-section {
+  padding: 160px 0px 60px;
+}
+
+.nio-mark-marketing-content .nio-mark-section-title-2 {
+  max-width: 470px;
+}
+
+.nio-mark-marketing-icon-text {
+  margin-bottom: 35px;
+}
+.nio-mark-marketing-icon-text .nio-mark-marketing-icon-title {
+  margin-bottom: 25px;
+  padding-bottom: 25px;
+}
+.nio-mark-marketing-icon-text .nio-mark-marketing-icon-title:after {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  content: "";
+  height: 2px;
+  position: absolute;
+  background-image: linear-gradient(90deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+}
+.nio-mark-marketing-icon-text .nio-mark-marketing-icon-title .nio-mark-marketing-icon {
+  line-height: 1;
+  margin-right: 20px;
+}
+.nio-mark-marketing-icon-text .nio-mark-marketing-icon-title .nio-mark-marketing-icon i {
+  font-size: 60px;
+  background-image: linear-gradient(90deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.nio-mark-marketing-icon-text .nio-mark-marketing-icon-title .nio-mark-marketing-title h3 {
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+.nio-mark-marketing-icon-text:hover .nio-mark-marketing-icon {
+  animation: icon-bounce 0.8s ease-out infinite;
+}
+
+.nio-mark-marketing-feature .col-md-6:nth-child(2) .nio-mark-marketing-icon-text .nio-mark-marketing-icon-title:after {
+  background-image: linear-gradient(90deg, #0997ac 0%, #9ee9ac 100%);
+}
+.nio-mark-marketing-feature .col-md-6:nth-child(2) .nio-mark-marketing-icon i {
+  background-image: linear-gradient(90deg, #0997ac 0%, #9ee9ac 100%);
+}
+.nio-mark-marketing-feature .col-md-6:nth-child(3) .nio-mark-marketing-icon-text .nio-mark-marketing-icon-title:after {
+  background-image: linear-gradient(90deg, #aa00f1 0%, #6722d6 100%);
+}
+.nio-mark-marketing-feature .col-md-6:nth-child(3) .nio-mark-marketing-icon i {
+  background-image: linear-gradient(90deg, #aa00f1 0%, #6722d6 100%);
+}
+.nio-mark-marketing-feature .col-md-6:nth-child(4) .nio-mark-marketing-icon-text .nio-mark-marketing-icon-title:after {
+  background-image: linear-gradient(90deg, #79b4f6 0%, #79b4f6 100%);
+}
+.nio-mark-marketing-feature .col-md-6:nth-child(4) .nio-mark-marketing-icon i {
+  background-image: linear-gradient(90deg, #79b4f6 0%, #79b4f6 100%);
+}
+
+/*----------------------------------------------------*/
+/*Cta area*/
+/*----------------------------------------------------*/
+.nio-mark-cta-section .banner_parallax {
+  padding: 130px 0px;
+}
+.nio-mark-cta-section .banner_parallax .background_overlay {
+  opacity: 0.6;
+  background-image: linear-gradient(-42deg, #7ee3b1 0%, #dff8b4 100%);
+}
+.nio-mark-cta-section .nio-mark-section-title-2 h2 {
+  padding-bottom: 15px;
+}
+.nio-mark-cta-section .nio-mark-section-title-2 p {
+  color: #666666;
+  font-size: 24px;
+}
+.nio-mark-cta-section .nio-mark-cta-content {
+  z-index: 5;
+  position: relative;
+}
+.nio-mark-cta-section .nio-mark-cta-wrap {
+  float: right;
+  max-width: 570px;
+}
+
+.nio-mark-cta-number {
+  margin-top: 25px;
+}
+.nio-mark-cta-number i {
+  color: #fff;
+  width: 70px;
+  height: 70px;
+  font-size: 30px;
+  line-height: 70px;
+  text-align: center;
+  border-radius: 100%;
+  animation: icon-bounce 0.8s ease-out infinite;
+  background-image: linear-gradient(45deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+}
+.nio-mark-cta-number a {
+  color: #f63c79;
+  font-size: 36px;
+  font-weight: 700;
+  margin-left: 15px;
+  font-family: "Poppins";
+}
+
+/*----------------------------------------------------*/
+/*testimonial area*/
+/*----------------------------------------------------*/
+.nio-mark-testimonial-section {
+  padding: 120px 0px 100px;
+}
+
+.nio-mark-testimonial-wrapper {
+  padding-top: 85px;
+}
+
+.nio-mark-testimonial-img-text {
+  padding-left: 100px;
+}
+.nio-mark-testimonial-img-text h3 {
+  color: #000000;
+  font-size: 60px;
+  font-weight: 700;
+  padding-bottom: 25px;
+}
+.nio-mark-testimonial-img-text .nio-mark-testimonial-name-degi {
+  padding-top: 42px;
+}
+.nio-mark-testimonial-img-text .nio-mark-testi-img {
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+.nio-mark-testimonial-img-text .nio-mark-testi-name-degi h4 {
+  color: #000000;
+  font-size: 24px;
+  font-weight: 700;
+  padding-bottom: 5px;
+}
+.nio-mark-testimonial-img-text:before {
+  top: 0;
+  left: 0;
+  line-height: 1;
+  font-size: 75px;
+  content: "";
+  position: absolute;
+  font-weight: 900;
+  font-family: "Font Awesome 5 Free";
+  background-image: linear-gradient(90deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/*----------------------------------------------------*/
+/*blog area*/
+/*----------------------------------------------------*/
+.nio-mark-blog-section .nio-mark-section-title-1 {
+  max-width: 460px;
+}
+.nio-mark-blog-section .nio-mark-section-title-1 h2, .nio-mark-blog-section .nio-mark-section-title-1 span, .nio-mark-blog-section .nio-mark-section-title-1 p {
+  color: #fff;
+}
+.nio-mark-blog-section .nio-mark-section-title-1 h2 {
+  padding-bottom: 25px;
+}
+.nio-mark-blog-section .nio-mark-section-title-1 p {
+  padding-left: 30px;
+}
+.nio-mark-blog-section .nio-mark-section-title-1 p:before {
+  left: 0;
+}
+
+.nio-mark-blog-inner,
+.nio-mark-blog-inner-2 {
+  margin-bottom: 30px;
+}
+.nio-mark-blog-inner .nio-mark-blog-img,
+.nio-mark-blog-inner-2 .nio-mark-blog-img {
+  overflow: hidden;
+  border-radius: 8px;
+}
+.nio-mark-blog-inner .nio-mark-blog-img:before,
+.nio-mark-blog-inner-2 .nio-mark-blog-img:before {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.nio-mark-blog-inner .nio-mark-blog-text,
+.nio-mark-blog-inner-2 .nio-mark-blog-text {
+  left: 30px;
+  bottom: 35px;
+  max-width: 490px;
+  position: absolute;
+}
+.nio-mark-blog-inner .nio-mark-blog-text .nio-mark-blog-meta,
+.nio-mark-blog-inner-2 .nio-mark-blog-text .nio-mark-blog-meta {
+  color: #fff;
+}
+.nio-mark-blog-inner .nio-mark-blog-text .nio-mark-blog-meta a,
+.nio-mark-blog-inner-2 .nio-mark-blog-text .nio-mark-blog-meta a {
+  margin-right: 25px;
+  position: relative;
+}
+.nio-mark-blog-inner .nio-mark-blog-text .nio-mark-blog-meta a:after,
+.nio-mark-blog-inner-2 .nio-mark-blog-text .nio-mark-blog-meta a:after {
+  top: 6px;
+  width: 1px;
+  content: "";
+  right: -12px;
+  height: 12px;
+  position: absolute;
+  background-color: #fff;
+}
+.nio-mark-blog-inner .nio-mark-blog-text .nio-mark-blog-meta a:last-child:after,
+.nio-mark-blog-inner-2 .nio-mark-blog-text .nio-mark-blog-meta a:last-child:after {
+  display: none;
+}
+.nio-mark-blog-inner .nio-mark-blog-text .nio-mark-blog-meta .leffect-1 a,
+.nio-mark-blog-inner-2 .nio-mark-blog-text .nio-mark-blog-meta .leffect-1 a {
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Poppins";
+  color: #fff;
+}
+.nio-mark-blog-inner .nio-mark-blog-text h3,
+.nio-mark-blog-inner-2 .nio-mark-blog-text h3 {
+  color: #fff;
+  font-size: 24px;
+  padding-top: 5px;
+  font-weight: 700;
+}
+
+.nio-mark-blog-inner-2 .nio-mark-blog-text {
+  bottom: 30px;
+}
+.nio-mark-blog-inner-2 .nio-mark-blog-text h3 {
+  font-size: 18px;
+}
+
+/*----------------------------------------------------*/
+/*contact area*/
+/*----------------------------------------------------*/
+
+.nio-mark-contact-form-area input,
+.nio-mark-contact-form-area textarea {
+  width: 100%;
+  height: 55px;
+  padding-left: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  border: 1px solid #e5e5e5;
+}
+.nio-mark-contact-form-area textarea {
+  height: 145px;
+  padding-top: 20px;
+}
+.nio-mark-contact-form-area button {
+  border: none;
+  height: 60px;
+  width: 200px;
+}
+
+#nio-mark_map {
+  top: 0;
+  right: 0;
+  width: 45%;
+  height: 100%;
+  position: absolute;
+}
+
+.nio-mark-sponsor-section {
+  padding: 75px 0px;
+}
+
+.nio-mark-sponsor-img img {
+  filter: grayscale(1);
+  transition: 0.4s all ease-in-out;
+}
+.nio-mark-sponsor-img img:hover {
+  filter: grayscale(0);
+}
+
+/*----------------------------------------------------*/
+/*footer area*/
+/*----------------------------------------------------*/
+.nio-mark-footer-section {
+  margin-top: 100px;
+}
+
+.nio-mark-footer-content {
+  padding-bottom: 90px;
+}
+
+.nio-mark-cta-content-2 {
+  top: -100px;
+  padding: 55px 60px;
+  background-image: linear-gradient(90deg, #9851fe 0%, #6599fb 50%, #13dcfa 100%);
+}
+.nio-mark-cta-content-2 h3 {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 700;
+  padding-bottom: 15px;
+}
+.nio-mark-cta-content-2 span {
+  color: #fff;
+  font-size: 20px;
+}
+.nio-mark-cta-content-2 a {
+  top: 85px;
+  right: 60px;
+  position: absolute;
+  width: 200px;
+  height: 60px;
+  line-height: 60px;
+}
+
+.nio-mark-footer-widget .widget-title {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  padding-top: 15px;
+  padding-bottom: 35px;
+}
+.nio-mark-footer-widget .nio-mark-logo-widget {
+  color: #d2d2d2;
+  max-width: 235px;
+}
+.nio-mark-footer-widget .nio-mark-logo-widget .footer-logo {
+  padding-bottom: 30px;
+}
+.nio-mark-footer-widget .nio-mark-logo-widget p {
+  padding-bottom: 25px;
+}
+.nio-mark-footer-widget .nio-mark-office-icon-text {
+  margin-bottom: 15px;
+}
+.nio-mark-footer-widget .nio-mark-office-icon-text .nio-mark-office-icon {
+  font-size: 14px;
+  margin-right: 18px;
+}
+.nio-mark-footer-widget .nio-mark-office-icon-text p {
+  overflow: hidden;
+  padding-bottom: 0;
+}
+.nio-mark-footer-widget .nio-mark-menu-widget {
+  padding-left: 30px;
+}
+.nio-mark-footer-widget .nio-mark-menu-widget li {
+  padding-left: 15px;
+  margin-bottom: 20px;
+  position: relative;
+  transition: 0.3s all ease-in-out;
+}
+.nio-mark-footer-widget .nio-mark-menu-widget li:after {
+  color: #d2d2d2;
+  top: 0;
+  left: 0;
+  font-size: 14px;
+  content: "";
+  font-weight: 900;
+  position: absolute;
+  font-family: "Font Awesome 5 Free";
+}
+.nio-mark-footer-widget .nio-mark-menu-widget li a {
+  color: #d2d2d2;
+  position: relative;
+}
+.nio-mark-footer-widget .nio-mark-menu-widget li a:after {
+  left: 0;
+  content: "";
+  height: 1px;
+  width: 0%;
+  bottom: -1px;
+  position: absolute;
+  transition: 400ms ease;
+  background-color: #d2d2d2;
+}
+.nio-mark-footer-widget .nio-mark-menu-widget li:hover {
+  margin-left: 10px;
+}
+.nio-mark-footer-widget .nio-mark-menu-widget li:hover a:after {
+  width: 100%;
+}
+.nio-mark-footer-widget .footer-blog-widget-img-text {
+  margin-bottom: 25px;
+}
+.nio-mark-footer-widget .footer-blog-widget-img-text .footer-blog-widget-img {
+  width: 72px;
+  height: 72px;
+  overflow: hidden;
+  margin-right: 15px;
+  border-radius: 7px;
+}
+.nio-mark-footer-widget .footer-blog-widget-img-text .footer-blog-widget-text span {
+  color: #d2d2d2;
+  font-size: 14px;
+}
+.nio-mark-footer-widget .footer-blog-widget-img-text .footer-blog-widget-text h3 {
+  color: #fff;
+  padding-top: 5px;
+  font-size: 16px;
+  font-weight: 700;
+}
+.nio-mark-footer-widget .nio-mark-newslatter-widget p {
+  color: #d2d2d2;
+  padding-bottom: 25px;
+}
+.nio-mark-form {
+  position: relative;
+}
+.nio-mark-form input {
+  width: 100%;
+  height: 55px;
+  border: none;
+  padding-left: 20px;
+  border-radius: 7px;
+  background-color: #ffffff;
+}
+.nio-mark-form input::placeholdee {
+  color: #999999;
+}
+.nio-mark-form button {
+  top: 15px;
+  right: 20px;
+  border: none;
+  color: #999999;
+  position: absolute;
+  background-color: transparent;
+}
+
+.nio-mark-copyright-wrapper {
+  padding: 25px 0px 20px;
+  background-color: #0a1c2b;
+}
+.nio-mark-copyright-wrapper .nio-mark-copyright-text {
+  float: left;
+}
+.nio-mark-copyright-wrapper .nio-mark-copyright-text span {
+  color: #ffffff;
+}
+.nio-mark-copyright-wrapper .nio-mark-copyright-text span a {
+  font-size: 18px;
+  font-weight: 700;
+}
+.nio-mark-copyright-wrapper .nio-mark-copyright-social {
+  float: right;
+}
+.nio-mark-copyright-wrapper .nio-mark-copyright-social a {
+  color: #fff;
+  margin-left: 7px;
+}
+.nio-mark-copyright-wrapper .nio-mark-copyright-social a:hover {
+  color: #f63c79;
+}
+
+/*----------------------------------------------------*/
+/*responsive area*/
+/*----------------------------------------------------*/
+@media screen and (max-width: 1440px) {
+  .nio-mark-slider-wrapper .owl-nav .owl-next,
+  .nio-mark-slider-wrapper .owl-nav .owl-prev {
+    height: 40px;
+    width: 40px;
+    font-size: 14px;
+    line-height: 35px;
+  }
+
+  #nio-mark-project-slide .owl-nav .owl-next,
+  #nio-mark-project-slide .owl-nav .owl-prev {
+    display: none;
+  }
+
+  .nio-mark-slider-wrapper .owl-nav .owl-next {
+    right: 10px;
+  }
+
+  .nio-mark-slider-wrapper .owl-nav .owl-prev {
+    left: 10px;
+  }
+
+  .nio-mark-project-section {
+    overflow: hidden;
+  }
+
+  .nio-mark-project-content .nio-mark-project-slider {
+    bottom: 0;
+  }
+
+  .nio-mark-marketing-section {
+    padding: 100px 0px 60px;
+  }
+}
+@media screen and (max-width: 1280px) {
+  .nio-mark-slider-wrapper .owl-nav {
+    bottom: 50px;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+  }
+
+  .nio-mark-slider-wrapper .owl-nav .owl-next,
+  .nio-mark-slider-wrapper .owl-nav .owl-prev {
+    position: static;
+    transform: translateY(0);
+  }
+}
+@media screen and (max-width: 1024px) {
+  .nio-mark-intro-innerbox .nio-mark-intro-text {
+    width: 100%;
+  }
+
+  .nio-mark-project-text {
+    padding-top: 0;
+  }
+
+  .nio-mark-marketing-icon-text .nio-mark-marketing-icon-title .nio-mark-marketing-title h3 {
+    font-size: 18px;
+  }
+
+  .nio-mark-marketing-icon-text .nio-mark-marketing-icon-title .nio-mark-marketing-icon i {
+    font-size: 50px;
+  }
+
+  .nio-mark-service-ft-item .nio-mark-service-ft-icon i {
+    font-size: 50px;
+  }
+
+  .nio-mark-service-text h3 {
+    font-size: 50px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .nio-mark-main-navigation {
+    display: none;
+  }
+
+  .nio-mark-brand-logo {
+    width: 150px;
+  }
+
+  .nio-mark-header-cta-btn {
+    padding-top: 5px;
+    margin-right: 40px;
+  }
+  .nio-mark-header-cta-btn a {
+    height: 40px;
+    width: 120px;
+    line-height: 40px;
+  }
+
+  .nio-mark-header-menu {
+    padding: 10px 15px;
+  }
+
+  .nio-mark-mobile_menu_button {
+    display: block;
+  }
+
+  .nio-mark-header-top {
+    display: none;
+  }
+
+  .nio-mark-slider-item .nio-mark-slider-text h1 {
+    font-size: 55px;
+  }
+
+  .nio-mark-slider-item .nio-mark-slider-content .nio-mark-slider-icon {
+    display: none;
+  }
+
+  .nio-mark-about-img-wrap {
+    max-width: 470px;
+    margin: 0 auto;
+    margin-bottom: 170px;
+  }
+
+  .nio-mark-service-ft-item {
+    margin-bottom: 30px;
+  }
+
+  .nio-mark-service-img .nio-mark-service-img2 {
+    position: static;
+    margin: 20px 0px;
+  }
+
+  .nio-mark-service-img .nio-mark-service-shape1,
+  .nio-mark-service-img .nio-mark-service-shape2 {
+    display: none;
+  }
+
+  .nio-mark-project-text {
+    padding-bottom: 70px;
+  }
+
+  .nio-mark-project-content .nio-mark-project-slider {
+    padding-left: 0;
+  }
+
+  .nio-mark-project-content .nio-mark-slider-img:before {
+    right: 0;
+  }
+
+  .nio-mark-marketing-feature {
+    padding-top: 40px;
+  }
+
+  .nio-mark-marketing-icon-text .nio-mark-marketing-icon-title {
+    padding-bottom: 40px;
+  }
+
+  .nio-mark-section-title-2 h2 {
+    font-size: 40px;
+  }
+
+  .nio-mark-blog-inner {
+    margin: 0 auto;
+    max-width: 570px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+
+  .nio-mark-blog-section .nio-mark-section-title-1 {
+    max-width: 100%;
+  }
+
+  .nio-mark-blog-inner-2 {
+    max-width: 370px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+
+  .nio-mark-contact-section {
+    padding-top: 0;
+  }
+
+  #nio-mark_map {
+    width: 100%;
+    height: 350px;
+    position: static;
+    margin-bottom: 40px;
+  }
+
+  .nio-mark-cta-content-2 a {
+    position: static;
+    margin-top: 20px;
+  }
+
+  .nio-mark-copyright-wrapper .nio-mark-copyright-text,
+  .nio-mark-copyright-wrapper .nio-mark-copyright-social {
+    float: none;
+  }
+}
+@media screen and (max-width: 767px) {
+  .nio-mark-slider-item {
+    padding: 150px 0px 200px;
+  }
+
+  .nio-mark-slider-item .nio-mark-slider-text span {
+    font-size: 25px;
+  }
+
+  .nio-mark-section-title-1 p {
+    padding-left: 0;
+  }
+
+  .nio-mark-section-title-1 p:before {
+    display: none;
+  }
+
+  .nio-mark-intro-innerbox {
+    margin: 0 auto;
+    max-width: 370px;
+  }
+
+  .nio-mark-about-img-wrap {
+    margin-top: 30px;
+  }
+
+  .nio-mark-testimonial-content {
+    margin-top: 40px;
+  }
+
+  .nio-mark-footer-widget .nio-mark-menu-widget {
+    padding-left: 0;
+  }
+
+  .nio-mark-sticky-on {
+    top: 0;
+  }
+  .nio-mark-sticky-on .nio-mark-mobile_menu_button {
+    right: 0;
+  }
+
+  .nio-mark-cta-content-2 span {
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .nio-mark-slider-item .nio-mark-slider-text span {
+    font-size: 18px;
+  }
+
+  .nio-mark-slider-item .nio-mark-slider-text h1 {
+    font-size: 40px;
+    padding-bottom: 20px;
+  }
+
+  .nio-mark-slider-item {
+    padding-bottom: 150px;
+  }
+
+  .nio-mark-slider-item .nio-mark-slider-text p {
+    font-size: 16px;
+    padding-bottom: 20px;
+  }
+
+  .nio-mark-slider-item .nio-mark-slider-text .nio-mark-slider-btn a {
+    height: 50px;
+    line-height: 50px;
+    width: 160px;
+  }
+
+  .nio-mark-intro-section {
+    padding: 50px 0px 30px;
+  }
+
+  .nio-mark-section-title-1 h2 {
+    font-size: 36px;
+  }
+
+  .nio-mark-section-title-2 h2 {
+    font-size: 34px;
+  }
+
+  .nio-mark-about-img-wrap .nio-mark-about-img2 {
+    position: static;
+  }
+
+  .nio-mark-about-img-wrap {
+    margin-bottom: 40px;
+  }
+
+  .nio-mark-about-img-wrap .nio-mark-abou-img-icon {
+    display: none;
+  }
+
+  .nio-mark-service-text h3 {
+    font-size: 42px;
+  }
+
+  .nio-mark-testimonial-img-text h3 {
+    font-size: 30px;
+  }
+
+  .nio-mark-sponsor-section {
+    padding: 25px 0px;
+  }
+
+  .nio-mark-cta-content-2 h3 {
+    font-size: 30px;
+  }
+
+  .nio-mark-cta-content-2 {
+    padding: 30px;
+  }
+
+  .nio-mark-cta-content-2 {
+    top: -40px;
+  }
+
+  .nio-mark-marketing-section {
+    padding: 50px 0px;
+  }
+
+  .nio-mark-about-section,
+  .nio-mark-service-section,
+  .nio-mark-project-section,
+  .nio-mark-testimonial-section,
+  .nio-mark-contact-section {
+    padding: 60px 0px 50px;
+  }
+
+  .nio-mark-service-text-icon i {
+    font-size: 60px;
+  }
+
+  .nio-mark-service-text-icon {
+    margin-bottom: 15px;
+  }
+
+  .nio-mark-service-text h3 {
+    font-size: 32px;
+  }
+
+  .nio-mark-project-text h3 {
+    font-size: 30px;
+    padding-bottom: 20px;
+  }
+
+  .nio-mark-cta-section .banner_parallax {
+    padding: 50px 0px;
+  }
+
+  .nio-mark-testimonial-img-text:before {
+    font-size: 50px;
+  }
+
+  .nio-mark-testimonial-img-text {
+    padding-left: 65px;
+  }
+
+  .nio-mark-testimonial-wrapper {
+    padding-top: 60px;
+  }
+
+  .nio-mark-blog-section .nio-mark-section-title-1 p {
+    padding-left: 0;
+  }
+
+  .nio-mark-blog-inner .nio-mark-blog-text h3 {
+    font-size: 18px;
+  }
+
+  .nio-mark-section-title-1 p {
+    font-size: 16px;
+  }
+
+  .nio-mark-header-cta-btn {
+    padding-top: 0;
+  }
+
+  .nio-mark-cta-content-2 a,
+  .nio-mark-contact-form-area button {
+    height: 50px;
+    width: 150px;
+    line-height: 50px;
+  }
+}
+@media screen and (max-width: 380px) {
+  .nio-mark-brand-logo {
+    width: 120px;
+  }
+
+  .nio-mark-section-title-1 h2 {
+    font-size: 30px;
+  }
+
+  .nio-mark-cta-number a {
+    font-size: 30px;
+  }
+
+  .nio-mark-header-cta-btn {
+    margin-left: 5px;
+  }
+
+  .nio-mark-header-cta-btn a {
+    width: 100px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .nio-mark-section-title-2 h2 {
+    font-size: 30px;
+  }
+
+  .nio-mark-blog-inner .nio-mark-blog-text,
+  .nio-mark-blog-inner-2 .nio-mark-blog-text {
+    left: 15px;
+    bottom: 20px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .nio-mark-brand-logo {
+    width: 100px;
+    padding-top: 5px;
+  }
+}
+/*---------------------------------------------------- */
